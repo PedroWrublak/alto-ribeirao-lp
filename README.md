@@ -1,36 +1,120 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🪵 Alto Ribeirão — Mobiliário Sob Medida
 
-## Getting Started
+Landing page moderna desenvolvida para apresentar os serviços da **Alto Ribeirão**, empresa especializada em móveis planejados e mobiliário sob medida.
 
-First, run the development server:
+O projeto foi criado com foco em design sofisticado, responsividade e experiência do usuário, destacando os diferenciais da marca e seus projetos personalizados.
+
+![Next.js](https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=next.js)
+![React](https://img.shields.io/badge/React-19-20232A?style=for-the-badge&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+
+---
+
+## ✨ Sobre o projeto
+
+A aplicação foi desenvolvida para servir como uma vitrine digital da empresa, apresentando:
+
+- Ambientes planejados
+- Projetos personalizados
+- Diferenciais da marca
+- Formas de contato
+- Portfólio de móveis sob medida
+
+Tudo isso com uma interface moderna, elegante e totalmente responsiva.
+
+---
+
+## 🚀 Tecnologias utilizadas
+
+- ⚡ Next.js
+- ⚛️ React
+- 🟦 TypeScript
+- 🎨 Tailwind CSS
+- 📱 Responsividade Mobile First
+- ✨ Componentização reutilizável
+
+---
+
+## 📂 Estrutura do projeto
+
+```bash
+src/
+ ├── app/
+ ├── components/
+ ├── sections/
+ ├── assets/
+ ├── styles/
+ └── utils/
+```
+
+---
+
+## 🎯 Funcionalidades
+
+- ✅ Landing page responsiva
+- ✅ Layout moderno e sofisticado
+- ✅ Seções institucionais
+- ✅ Exibição de projetos/portfólio
+- ✅ Navegação fluida
+- ✅ SEO básico
+- ✅ Alta performance com Next.js
+
+---
+
+## 🛠️ Como executar o projeto
+
+### Clone o repositório
+
+```bash
+git clone https://github.com/PedroWrublak/alto-ribeirao-lp.git
+```
+
+### Entre na pasta do projeto
+
+```bash
+cd alto-ribeirao-lp
+```
+
+### Instale as dependências
+
+```bash
+npm install
+```
+
+### Execute o projeto
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+O projeto estará disponível em:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```bash
+http://localhost:3000
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 📈 Objetivos do projeto
 
-To learn more about Next.js, take a look at the following resources:
+Este projeto foi desenvolvido com o objetivo de:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Criar uma presença digital profissional
+- Destacar projetos de mobiliário sob medida
+- Praticar desenvolvimento frontend moderno
+- Aplicar boas práticas com Next.js e Tailwind CSS
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## 👨‍💻 Autor
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Desenvolvido por **Pedro Wrublak**
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- GitHub: [PedroWrublak](https://github.com/PedroWrublak)
+
+---
+
+## 📄 Licença
+
+Este projeto está sob a licença MIT.
